@@ -10,4 +10,4 @@ This database formalizes first order logic with equality. It was taken from set.
 
 ## Elementary Geometry
 
-Formalizing Elementary Geometry. W.I.P.
+Formalizing Elementary Geometry. W.I.P. Chapters 1-5 Formalized.
